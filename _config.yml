@@ -1,0 +1,45 @@
+title: "UIUC Campus AI Curriculum Research"
+description: "AI-Assisted Research for Campus-Wide AI Education Strategy"
+theme: jekyll-theme-cayman
+baseurl: "/ai-taskforce"
+url: "https://vishalsachdev.github.io"
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Synthesis Report
+    url: /research/TASK-FORCE-SYNTHESIS
+  - title: Methodology
+    url: /RESEARCH-METHODOLOGY-ARTICLE
+  - title: Agent Documentation
+    url: /agents
+  - title: Provost Charge
+    url: /PROVOST-CHARGE
+
+# Collections for better organization
+collections:
+  agents:
+    output: true
+    permalink: /agents/:name/
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+# Exclude from processing
+exclude:
+  - session.txt
+  - keyframes/
+  - .DS_Store

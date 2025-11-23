@@ -1,0 +1,191 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom styles for AI Taskforce Research site */
+
+/* Navigation cards */
+.navigation-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.card {
+  background: #f8f9fa;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 1.5rem;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.card h3 {
+  margin-top: 0;
+  color: #2c3e50;
+  font-size: 1.2rem;
+}
+
+.card p {
+  color: #555;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  margin: 1rem 0;
+}
+
+.button {
+  display: inline-block;
+  background: #0366d6;
+  color: white !important;
+  padding: 0.6rem 1.2rem;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background 0.2s;
+}
+
+.button:hover {
+  background: #0256c4;
+  text-decoration: none;
+}
+
+/* Enhanced tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5rem 0;
+  font-size: 0.9rem;
+}
+
+th {
+  background: #2c3e50;
+  color: white;
+  padding: 0.75rem;
+  text-align: left;
+  font-weight: 600;
+}
+
+td {
+  padding: 0.75rem;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+tr:hover {
+  background: #f8f9fa;
+}
+
+/* Blockquotes / warnings */
+blockquote {
+  background: #fff8e1;
+  border-left: 4px solid #ffa000;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 4px;
+}
+
+blockquote p {
+  margin: 0;
+}
+
+/* Emoji headings */
+h2, h3 {
+  margin-top: 2rem;
+}
+
+/* Code blocks */
+pre {
+  background: #2c3e50;
+  color: #ecf0f1;
+  padding: 1rem;
+  border-radius: 4px;
+  overflow-x: auto;
+}
+
+code {
+  background: #f1f3f5;
+  padding: 0.2rem 0.4rem;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+pre code {
+  background: transparent;
+  padding: 0;
+}
+
+/* Links */
+a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Agent documentation specific */
+.agent-card {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 2rem;
+  border-radius: 8px;
+  margin: 2rem 0;
+}
+
+.agent-card h3 {
+  color: white;
+  margin-top: 0;
+}
+
+/* Highlight boxes */
+.highlight-box {
+  background: #e3f2fd;
+  border-left: 4px solid #2196f3;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 4px;
+}
+
+/* Success/positive indicators */
+.positive {
+  color: #2e7d32;
+  font-weight: 600;
+}
+
+/* Warning/negative indicators */
+.negative {
+  color: #c62828;
+  font-weight: 600;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .navigation-cards {
+    grid-template-columns: 1fr;
+  }
+
+  table {
+    font-size: 0.8rem;
+  }
+
+  th, td {
+    padding: 0.5rem;
+  }
+}
+
+/* Print styles */
+@media print {
+  .button {
+    display: none;
+  }
+
+  .card {
+    break-inside: avoid;
+  }
+}
