@@ -2,9 +2,11 @@
 
 **A Case Study in Rigorous, Efficient Academic Research Using Coordinated AI Agents**
 
+> **⚠️ Methodological Transparency**: This is an **experiment in AI-assisted research with human steering**. We document this methodology openly to advance the conversation about how AI can augment—not replace—academic research capacity. AI agents (powered by [Claude Flow](https://github.com/ruvnet/claude-flow)) executed parallel research under human orchestration, with human expertise guiding all strategic decisions.
+
 ---
 
-When the University of Illinois Campus AI Curriculum Task Force received its charge from Provost Coleman in November 2025, the timeline was aggressive: deliver a short summary by December 19 and a comprehensive report by January 19. The six charges—ranging from designing a campus-wide AI minor to developing X+AI blended degrees—demanded deep institutional knowledge, competitive analysis across peer universities, curriculum design expertise, ethics frameworks, and detailed financial modeling.
+When the [University of Illinois Campus AI Curriculum Task Force](https://provost.illinois.edu/about/committees/education-2/campus-ai-curriculum-task-force/) received its charge from Provost Coleman in November 2025, the timeline was aggressive: deliver a short summary by December 19 and a comprehensive report by January 19. The six charges—ranging from designing a campus-wide AI minor to developing X+AI blended degrees—demanded deep institutional knowledge, competitive analysis across peer universities, curriculum design expertise, ethics frameworks, and detailed financial modeling.
 
 Traditionally, this level of research would require a team of graduate research assistants working for months, combing through hundreds of sources, conducting interviews, and synthesizing findings across disparate domains. We took a different approach: deploying a coordinated swarm of six specialized AI research agents, each focusing on a critical domain, working in parallel over a single intensive day.
 
@@ -161,8 +163,20 @@ The recommendations in our synthesis aren't merely AI-generated—they're AI-ass
 
 ---
 
+## Acknowledgments & Credits
+
+**Experimental Methodology**: This research represents an experiment in AI-assisted academic research with human steering. We share this methodology openly to contribute to the broader conversation about AI's role in academic work.
+
+**AI Infrastructure**: Agent coordination powered by [Claude Flow](https://github.com/ruvnet/claude-flow) by ruvnet
+
+**Official Charge**: [UIUC Campus AI Curriculum Task Force](https://provost.illinois.edu/about/committees/education-2/campus-ai-curriculum-task-force/)
+
 **Repository**: [github.com/vishalsachdev/ai-taskforce](https://github.com/vishalsachdev/ai-taskforce)
+
 **Contact**: Campus AI Curriculum Task Force Research Team
+
 **Date**: November 2025
+
+---
 
 *For questions about methodology, source validation, or to review individual agent outputs, all research materials are publicly available in the repository.*

@@ -4,11 +4,13 @@
 **Research Period**: November 2025
 **Task Force Chairs**: Derek Hoiem (Grainger Engineering), Shaowen Wang (LAS)
 
+> **⚠️ Methodological Note**: This is an **experiment in AI-assisted research with human steering**. The research employs coordinated AI agents (powered by [Claude Flow](https://github.com/ruvnet/claude-flow)) under human orchestration to achieve breadth and speed without sacrificing rigor. All findings are evidence-based, transparently sourced, and validated by human expertise.
+
 ---
 
 ## Overview
 
-This repository contains comprehensive research and recommendations for the University of Illinois Campus AI Curriculum Task Force, charged by Provost John Coleman to develop a campus-wide AI education strategy.
+This repository contains comprehensive research and recommendations for the [University of Illinois Campus AI Curriculum Task Force](https://provost.illinois.edu/about/committees/education-2/campus-ai-curriculum-task-force/), charged by Provost John Coleman to develop a campus-wide AI education strategy.
 
 ### Deliverables
 
@@ -44,7 +46,7 @@ This repository contains comprehensive research and recommendations for the Univ
 
 ## Research Domains
 
-Our research was conducted using a **coordinated swarm of 6 specialized agents**, each focusing on a critical domain:
+Our research was conducted using a **coordinated swarm of 6 specialized agents** (see [detailed agent documentation](agents/)), each focusing on a critical domain:
 
 ### 📊 Agent Alpha: Institutional Context
 **File**: [`research/institutional/uiuc-ai-landscape.md`](research/institutional/uiuc-ai-landscape.md)
@@ -217,21 +219,30 @@ Our research was conducted using a **coordinated swarm of 6 specialized agents**
 ```
 ai-taskforce/
 ├── README.md (this file)
+├── RESEARCH-METHODOLOGY-ARTICLE.md (methodology transparency)
+├── PROVOST-CHARGE.md (official task force charge)
 ├── session.txt (original web session transcript)
+├── agents/ 🤖 AGENT DOCUMENTATION
+│   ├── agent-alpha-institutional.md
+│   ├── agent-beta-stakeholders.md
+│   ├── agent-gamma-peer-analysis.md
+│   ├── agent-delta-curriculum.md
+│   ├── agent-epsilon-ethics.md
+│   └── agent-zeta-administration.md
 ├── research/
 │   ├── TASK-FORCE-SYNTHESIS.md ⭐ PRIMARY DELIVERABLE
 │   ├── institutional/
-│   │   └── uiuc-ai-landscape.md (Agent Alpha)
+│   │   └── uiuc-ai-landscape.md (Agent Alpha output)
 │   ├── members/
-│   │   └── task-force-profiles.md (Agent Beta)
+│   │   └── task-force-profiles.md (Agent Beta output)
 │   ├── peer-programs/
-│   │   └── comparative-analysis.md (Agent Gamma)
+│   │   └── comparative-analysis.md (Agent Gamma output)
 │   ├── curriculum/
-│   │   └── pedagogy-framework.md (Agent Delta)
+│   │   └── pedagogy-framework.md (Agent Delta output)
 │   ├── ethics/
-│   │   └── responsible-ai-framework.md (Agent Epsilon)
+│   │   └── responsible-ai-framework.md (Agent Epsilon output)
 │   └── administration/
-│       └── governance-financial-models.md (Agent Zeta)
+│       └── governance-financial-models.md (Agent Zeta output)
 ```
 
 ---
@@ -266,7 +277,7 @@ ai-taskforce/
 
 ### Swarm Research Architecture
 
-We used a **hierarchical swarm** of 6 specialized research agents working in parallel:
+**This is an experiment in AI-assisted research with human steering.** We used a **hierarchical swarm** of 6 specialized research agents (powered by [Claude Flow](https://github.com/ruvnet/claude-flow)) working in parallel under human orchestration:
 
 1. **Agent Alpha** - Institutional context (UIUC AI landscape, existing programs)
 2. **Agent Beta** - Stakeholder analysis (task force member profiling)
@@ -275,9 +286,14 @@ We used a **hierarchical swarm** of 6 specialized research agents working in par
 5. **Agent Epsilon** - Ethics integration (responsible AI frameworks)
 6. **Agent Zeta** - Administration (governance, financial models)
 
+**Human Role**: Research design, agent orchestration, synthesis validation, strategic framing
+**AI Role**: Parallel research execution, source gathering, evidence compilation, structured analysis
+
 **Total Research**: 200+ sources across six domains
 **Synthesis**: Integrated findings addressing all six Provost charges
 **Duration**: Parallel execution over 1 day (Nov 23, 2025)
+
+**Credits**: AI agent infrastructure provided by [Claude Flow](https://github.com/ruvnet/claude-flow)
 
 ---
 
