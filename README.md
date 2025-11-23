@@ -30,6 +30,16 @@ This repository contains comprehensive research and recommendations for the Univ
 5. **Graduate Transfer**: Direct articulation with MS programs
 6. **Ethics Integration**: Hybrid approach (standalone + embedded modules)
 
+### 🔬 [**RESEARCH-METHODOLOGY-ARTICLE.md**](RESEARCH-METHODOLOGY-ARTICLE.md)
+**Process transparency** - Detailed explanation of our AI-assisted swarm research methodology, quality assurance measures, and how we ensured rigor while achieving speed. Essential reading for stakeholders interested in understanding how this research was conducted.
+
+**Key Points**:
+- 6 specialized AI agents working in parallel
+- 200+ sources with validation protocols
+- Human orchestration and validation at every stage
+- Evidence-based recommendations traced to sources
+- Transparent, verifiable, and reproducible methodology
+
 ---
 
 ## Research Domains
