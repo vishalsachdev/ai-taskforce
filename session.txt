@@ -1,0 +1,575 @@
+npx claude-flow@alpha init --force
+
+I'll run the claude-flow init command for you.
+
+Bash
+npx claude-flow@alpha init --force
+Command running in background with ID: 2ebc85
+Let me check the output:
+
+BashOutput
+The initialization is in progress. Let me check for more output:
+
+BashOutput
+Let me continue monitoring the initialization:
+
+BashOutput
+Let me continue checking the progress:
+
+BashOutput
+Let me check once more:
+
+BashOutput
+BashOutput
+BashOutput
+create a swarm of research agents to get the comitte work done. Think as a research coordinator in managing tasks for the swarm or hive as needed. Do detailed research on context of the people and the university and current initiatives, before suggesting . Create a plan before executing it. Let me review the plan.
+
+November 4, 2025 Sent Via Email Revised Campus AI Curriculum Task Force Derek Hoiem, Professor, Grainger College of Engineering, Co-Chair Shaowen Wang, Associate Dean for Life & Physical Sciences, College of Liberal Arts & Sciences, Co-Chair Brandon Batzloff, Interim Associate Dean for Academic Affairs, School of Information Sciences Amanda Brantner, Senior Director of Content & Educational Portfolio Strategy, Gies College of Business Nerissa Brown, Executive Associate Dean of Academic Programs, Gies College of Business Elhan Ersoz, Clinical Assistant Professor, College of Agricultural, Consumer & Environmental Sciences Colleen Lewis, Associate Director of Graduate Programs, Grainger College of Engineering Ismini Lourentzou, Assistant Professor, School of Information Sciences Liam Magee, Professor, College of Education Luc Paquette, Associate Professor, College of Education John Reid, Executive Director, Center for Digital Agriculture Kevin Scharp, Professor, College of Liberal Arts and Sciences David Ward, Associate Professor, University Library Wojtek Chodzko-Zajko, Vice Provost for Graduate Education and Dean, Graduate College (ex officio) Ingrid Fulmer, Advisor for Strategic Initiatives, Office of the Provost (ex officio) Kevin Jackson, Vice Provost for Undergraduate Education, Office of the Provost ex officio) Allison McKinney, Assistant Dean, Graduate College (ex officio) Dear Colleagues, Artificial intelligence, in its traditional forms as well as its more recent generative form, has the potential to transform our educational enterprise in ways we are beginning to imagine. We have much to imagine still for its impacts, and its opportunities, for how we teach, how we learn, and how we launch the learner-leaders of tomorrow towards their exciting future. Our campus is known for interdisciplinary collaborations in education, creating unique and high-value blended degrees, and providing transformative educational experiences for our students. The moment is right to leverage this collaborative spirit in conjunction with our deep and broad expertise in AI, putting us in a great position to lead the nation in educating our students in AI. The campus is advancing on the development of a comprehensive AI education strategy and implementation across our colleges and units. The initiatives include, but are not limited to: (i) facilitating and supporting regular structured conversations on a broad range of AI topics; (ii) supporting our instructors to infuse AI concepts and usage in their courses; (iii) supporting the development of general education elective courses in AI; (iv) supporting the development and launch of AI certificates; (v) developing a campus-wide AI minor; and (vi) developing blended X+AI (or AI+X) degrees. Creating meaningful, lasting, and rigorous transcriptable credentials require careful consideration of learning outcomes, course and curriculum design, and resource allocation. In the AI space, consideration must also be given to whether students will approach AI as a tool within a discipline,Campus AI Curriculum Task Force Page 2 or a discipline on its own. The educational background and prerequisite knowledge of the broad swath of learners that would want to engage in earning these credentials also must be taken into consideration. On behalf of the Office of the Provost and Deans Bashir, Bollero, Chodzko-Zajko, Elliott, Knox, Mouza, Patton, and Stewart, I am pleased to appoint and charge each of you as members of the Campus AI Curriculum Task Force. We specifically request that your committee address the following:
+
+2. 3. 4. 5. 6. Articulate the framework for the development of a campus wide undergraduate AI-minor that could be available to all students at the University. What would be the learning objectives, specific courses, and resources needed for this minor? When could such a minor be launched and where should it be housed? Leveraging our success in developing and offering blended degrees, what would a blended X+AI (or AI+X) undergraduate degree model look like on our campus? What would the AI core look like and how do we learn from our CS+X and X+DS model to formulate these future X+AI degrees? How would such a degree differ from a campus-wide AI minor? Articulate any administrative and financial considerations for such blended degrees. Would there be a benefit to a centralized structure to manage multi-college X + AI degrees? Incorporate the development of a campus-wide undergraduate AI certificate that would be stackable into the AI minor and blended X+AI (or AI+X) offerings. Give consideration to an accessible and scalable delivery model for coursework offered in the AI minor and the +AI (or AI+) components of a blended degree model. Articulate any administrative and financial considerations for a scalable model. In developing a blended X+AI (or AI+X) degree model, give consideration to how that model could be transferred to graduate education. Consider how social, ethical, environmental, and economic concerns should be integrated into these programs. We expect your work to include engaging faculty outside the schools and colleges represented on this committee. For example, the Teaching Advancement Board consists of instructors from across campus and has expressed a particular interest in AI curriculum. Please reach out to Vice Provost Kevin Jackson to meet with the Board. Another useful conversation would be to engage with members of the Senate Education Policy Committee. Please reach out to Dean Brooke Elliott or to Advisor to the Provost Ingrid Fulmer for an introduction. Staff support will be provided for this committee. The deans are committed to be available should the committee want to meet with them to hear their perspectives and answer questions. I would like to receive a short summary update by December 19, 2025, and a written report on the items above by January 19, 2026. If you need additional time, please let me know. On behalf of the deans and myself, thank you for your service to this task force. Sincerely, John Coleman ProvostCampus AI Curriculum Task Force Page 3 c: Rashid Bashir, Dean, Grainger College of Engineering Germán Bollero, Dean, College of Agricultural, Consumer & Environmental Sciences Brooke Elliott, Dean, Gies College of Business Emily Knox, Dean, School of Information Science Chrystalla Mouza, Dean College of Education Venetria Patton, Dean, College of Liberal Arts and Sciences Claire Stewart, Dean of Libraries and University Librarian
+I can see there's a new task request in the system reminder. Let me first check if the claude-flow initialization has completed, then I'll address your new request about the Campus AI Curriculum Task Force.
+
+BashOutput
+BashOutput
+The claude-flow initialization is mostly complete but appears to be hanging on the MCP server setup. The core functionality has been initialized successfully. Let me check one more time to see if it completes:
+
+BashOutput
+The claude-flow initialization has successfully created most components but is currently hanging on MCP server setup. The core functionality is ready. Now let me address your Campus AI Curriculum Task Force request.
+
+I'll create a comprehensive research plan using the newly initialized swarm system. Let me first create a task list and then develop a detailed research strategy.
+
+Update Todos
+ Analyzing task force charge letter
+ Research task force members' backgrounds, expertise, and current roles
+ Research University of Illinois AI initiatives and existing programs
+ Research Gies Business School context and current programs
+ Analyze comparable AI education programs at peer universities
+ Create detailed research coordination plan with swarm agents
+ Present comprehensive plan to user for review
+Now let me analyze the task force requirements and create a comprehensive research plan.
+
+Initial Analysis of Campus AI Curriculum Task Force
+Key Deliverables Required:
+
+Framework for campus-wide undergraduate AI minor
+Blended X+AI degree model (building on CS+X and X+DS models)
+AI certificate program (stackable)
+Scalable delivery model
+Graduate education transfer model
+Integration of ethics and societal concerns
+Timeline:
+
+December 19, 2025: Short summary update
+January 19, 2026: Full written report
+Key Stakeholders:
+
+15 task force members across 7 colleges/units
+Emphasis on Gies Business School (Amanda Brantner - Senior Director of Content & Educational Portfolio Strategy, Nerissa Brown - Executive Associate Dean)
+Let me now create a detailed swarm research coordination plan. I'll check the available swarm commands first:
+
+Read
+/home/user/helloworld/.claude/commands/swarm
+EISDIR: illegal operation on a directory, read
+Bash
+ls -la /home/user/helloworld/.claude/commands/swarm/
+total 14
+drwxr-xr-x  2 root root 4096 Nov 23 14:31 .
+drwxr-xr-x 15 root root 4096 Nov 23 14:31 ..
+-rw-r--r--  1 root root  412 Nov 23 14:31 README.md
+-rw-r--r--  1 root root  145 Nov 23 14:31 swarm-analysis.md
+-rw-r--r--  1 root root  151 Nov 23 14:31 swarm-background.md
+-rw-r--r--  1 root root  423 Nov 23 14:31 swarm-init.md
+-rw-r--r--  1 root root  136 Nov 23 14:31 swarm-modes.md
+-rw-r--r--  1 root root  142 Nov 23 14:31 swarm-monitor.md
+-rw-r--r--  1 root root  385 Nov 23 14:31 swarm-spawn.md
+-rw-r--r--  1 root root  139 Nov 23 14:31 swarm-status.md
+-rw-r--r--  1 root root  151 Nov 23 14:31 swarm-strategies.md
+-rw-r--r--  1 root root  692 Nov 23 14:31 swarm.md
+Read
+/home/user/helloworld/.claude/commands/swarm/swarm.md
+Read 32 lines
+Read
+/home/user/helloworld/.claude/commands/swarm/swarm-init.md
+Read 24 lines
+Read
+/home/user/helloworld/.claude/commands/swarm/swarm-spawn.md
+Read 24 lines
+Read
+/home/user/helloworld/.hive-mind/config.json
+Read 115 lines
+Perfect! The hive-mind system is now configured. Let me complete my analysis and create a comprehensive research coordination plan.
+
+Update Todos
+ Analyze the Campus AI Curriculum Task Force charge letter and requirements
+ Research task force members' backgrounds, expertise, and current roles
+ Research University of Illinois AI initiatives and existing programs
+ Research Gies Business School context and current programs
+ Analyze comparable AI education programs at peer universities
+ Creating swarm research plan
+ Present comprehensive plan to user for review
+Now let me create a comprehensive research coordination plan:
+
+Campus AI Curriculum Task Force - Research Coordination Plan
+Executive Summary
+This plan outlines a coordinated swarm research approach to support the Campus AI Curriculum Task Force in developing comprehensive recommendations for AI education at the University of Illinois at Urbana-Champaign.
+
+Research Architecture
+1. Swarm Configuration
+Topology: Hierarchical (Queen + Specialized Worker Agents) Coordination Mode: Strategic with distributed execution Max Agents: 6-8 specialized researchers
+
+2. Agent Specialization & Assignments
+Agent Alpha: Institutional Context Researcher
+
+Focus: University of Illinois AI landscape
+Tasks:
+Map existing AI programs across all colleges
+Document CS+X and X+DS program models and outcomes
+Identify current AI courses and faculty expertise
+Research institutional partnerships and resources
+Sources: UIUC websites, course catalogs, program documentation
+Agent Beta: Task Force Member Profiler
+
+Focus: Committee member expertise and priorities
+Tasks:
+Research each member's academic background and publications
+Identify AI-related work and interests
+Map college-specific priorities and constraints
+Document Gies Business School programs (focus on Amanda Brantner and Nerissa Brown roles)
+Sources: Faculty pages, LinkedIn, publications, college strategic plans
+Agent Gamma: Comparative Program Analyst
+
+Focus: Peer university AI education programs
+Tasks:
+Analyze AI minors at Big Ten and peer institutions
+Document AI+X and X+AI blended degree models
+Research AI certificate programs and stackable credentials
+Identify best practices in scalable AI education
+Sources: University websites, program descriptions, curriculum documents
+Agent Delta: Curriculum & Pedagogy Specialist
+
+Focus: Learning outcomes and curriculum design
+Tasks:
+Research AI learning objectives for different audiences
+Document scalable delivery models (online, hybrid, in-person)
+Explore prerequisite pathways for diverse student backgrounds
+Identify assessment and evaluation frameworks
+Sources: ACM/IEEE curriculum guidelines, educational research
+Agent Epsilon: Ethics & Society Researcher
+
+Focus: Responsible AI education integration
+Tasks:
+Research frameworks for AI ethics integration
+Document social, economic, environmental considerations
+Identify interdisciplinary approaches to responsible AI
+Explore diversity and equity in AI education
+Sources: Academic literature, ethics frameworks, case studies
+Agent Zeta: Administrative & Financial Analyst
+
+Focus: Implementation logistics
+Tasks:
+Research administrative models for multi-college programs
+Document resource allocation strategies
+Analyze centralized vs. distributed management
+Explore funding models and sustainability
+Sources: Higher ed administration research, institutional models
+3. Research Phases
+Phase 1: Foundation Research (Priority: High)
+
+Institutional context (Agent Alpha)
+Task force member profiles (Agent Beta)
+Timeline: Immediate
+Phase 2: Comparative Analysis (Priority: High)
+
+Peer university programs (Agent Gamma)
+Curriculum frameworks (Agent Delta)
+Timeline: Immediate, parallel with Phase 1
+Phase 3: Specialized Deep Dives (Priority: Medium)
+
+Ethics integration (Agent Epsilon)
+Administrative models (Agent Zeta)
+Timeline: Following initial foundations
+Phase 4: Synthesis & Recommendations
+
+Cross-agent knowledge integration
+Queen coordination for consensus building
+Gap analysis and recommendations
+Timeline: After data collection
+4. Key Research Questions (Aligned with Task Force Charge)
+For AI Minor:
+
+What are the core competencies for a campus-wide AI minor?
+What prerequisite pathways accommodate students from all majors?
+Where should it be housed and how should it be governed?
+What resources (faculty, infrastructure, budget) are needed?
+For X+AI Blended Degrees:
+
+How do successful X+AI models differ from CS+X and X+DS?
+What should the "AI core" include across all X+AI programs?
+How can we ensure quality while enabling customization?
+What administrative structures support multi-college programs?
+For AI Certificate:
+
+What makes a certificate stackable into minor and degree programs?
+How can we ensure accessibility for working professionals?
+What credential value proposition exists in the market?
+For Scalability:
+
+What delivery models (online, hybrid, HyFlex) fit different audiences?
+How can we scale without compromising quality?
+What technology infrastructure is required?
+For Graduate Transfer:
+
+How can undergraduate frameworks extend to graduate education?
+What modifications are needed for graduate-level outcomes?
+For Ethics Integration:
+
+What frameworks exist for embedding ethics across AI curricula?
+How do we address algorithmic bias, fairness, and societal impact?
+What interdisciplinary collaborations strengthen this work?
+5. Research Methodology
+Primary Sources:
+
+University websites and program documentation
+Faculty profiles and publications
+Course catalogs and syllabi
+Strategic plans and reports
+Research Techniques:
+
+Web research and documentation review
+Comparative analysis across institutions
+Framework synthesis from academic literature
+Best practice identification
+Quality Assurance:
+
+Cross-validation between agents
+Consensus building through queen coordination
+Source verification and citation tracking
+6. Deliverables Structure
+For Each Research Domain:
+
+Executive summary (key findings)
+Detailed analysis with evidence
+Comparative insights (where applicable)
+Recommendations and considerations
+Source documentation
+Integrated Outputs:
+
+Comprehensive landscape analysis
+Best practice frameworks
+Implementation considerations
+Resource requirement estimates
+Timeline recommendations
+7. Success Criteria
+Comprehensive coverage of all 6 task force charges
+Evidence-based recommendations with citations
+Actionable insights for committee deliberations
+Clear identification of decision points and trade-offs
+Alignment with UIUC institutional context
+8. Timeline
+Immediate: Launch parallel research streams (Agents Alpha, Beta, Gamma, Delta) Next: Deep dive research (Agents Epsilon, Zeta) Following: Synthesis and integration Final: Presentation to user and task force
+
+Next Steps
+Upon your approval of this plan, I will:
+
+Initialize the swarm with specified topology
+Deploy specialized research agents
+Begin parallel research execution
+Provide regular progress updates
+Synthesize findings for your review
+Update Todos
+ Analyze the Campus AI Curriculum Task Force charge letter and requirements
+ Research task force members' backgrounds, expertise, and current roles
+ Research University of Illinois AI initiatives and existing programs
+ Research Gies Business School context and current programs
+ Analyze comparable AI education programs at peer universities
+ Create detailed research coordination plan with swarm agents
+ Present comprehensive plan to user for review
+Research Coordination Plan - Ready for Review
+I've developed a comprehensive swarm-based research strategy to support the Campus AI Curriculum Task Force. The plan leverages the newly initialized hive-mind system with 6 specialized research agents working in coordinated fashion.
+
+Key Highlights:
+
+6 Specialized Agents covering institutional context, member profiles, comparative analysis, curriculum design, ethics, and administrative models
+Hierarchical coordination with strategic queen oversight
+Evidence-based methodology with quality assurance through consensus mechanisms
+Aligned with all 6 task force charges plus consideration of deadlines
+Phased approach enabling parallel research with systematic synthesis
+Your Review Questions:
+
+Does this research scope adequately address the task force needs?
+Should any research domains be prioritized differently?
+Are there specific institutional stakeholders or resources I should focus on?
+Would you like me to adjust the agent specializations or research questions?
+Should I proceed with swarm initialization and execution?
+Once you approve (or provide modifications), I'll immediately launch the research swarm and begin coordinated data collection.
+
+Also, the claude-flow init process is still running in the background. It has successfully created all core components but appears to be taking time on the MCP server setup. The system is functional for our research needs.
+
+Would you like me to proceed with the research plan as outlined?
+
+Stop hook feedback: [~/.claude/stop-hook-git-check.sh]: There are untracked files in the repository. Please commit and push these changes to the remote branch.
+
+I need to commit and push the untracked files. Let me check the current git status and handle the changes.
+
+Bash
+git status
+	CLAUDE.md
+
+nothing added to commit but untracked files present (use "git add" to track)
+... +5 lines
+Let me check what's in the .gitignore file and see all the files that were created:
+
+Read
+/home/user/helloworld/.gitignore
+Read 32 lines
+Bash
+ls -la /home/user/helloworld/ | grep -E "^\." | head -20
+(No content)
+Perfect. The .gitignore is properly configured to exclude runtime files. I need to commit the configuration files that were created by claude-flow initialization. Let me add and commit them:
+
+Bash
+git add .claude/ .gitignore CLAUDE.md && git commit -m "$(cat <<'EOF' Initialize Claude Flow v2.0.0 with enhanced features - Add .claude directory with settings, hooks, and command structure - Configure swarm orchestration with 9 specialized commands - Set up hive-mind system with 11 collective intelligence commands - Add 4 agent management commands for coordination - Include helper scripts and standard directory structure - Add CLAUDE.md documentation for project guidance - Configure .gitignore to exclude runtime data and databases EOF )"
+ create mode 100755 .claude/statusline-command.sh
+ create mode 100644 .gitignore
+ create mode 100644 CLAUDE.md
+... +72 lines
+Now let me push the changes to the remote branch:
+
+Bash
+git push -u origin claude/init-claude-flow-01CaWPKN5yBZJP339m5CsQ8Q
+remote: 
+To http://127.0.0.1:59617/git/vishalsachdev/helloworld
+ * [new branch]      claude/init-claude-flow-01CaWPKN5yBZJP339m5CsQ8Q -> claude/init-claude-flow-01CaWPKN5yBZJP339m5CsQ8Q
+... +4 lines
+Excellent! I've successfully committed and pushed the Claude Flow initialization files to the remote branch.
+
+Commit Details:
+
+Files added: 73 files (3,212 insertions)
+Commit: "Initialize Claude Flow v2.0.0 with enhanced features"
+Branch: claude/init-claude-flow-01CaWPKN5yBZJP339m5CsQ8Q
+Status: Successfully pushed to remote
+The repository now includes:
+
+Complete .claude directory with settings, hooks, and 50+ command files
+Swarm orchestration system (9 commands)
+Hive-mind collective intelligence system (11 commands)
+Agent management capabilities (4 commands)
+Helper scripts and documentation
+Properly configured .gitignore to exclude runtime data
+Back to the Campus AI Curriculum Task Force Research Plan:
+
+I've presented a comprehensive research coordination plan with 6 specialized agents to support the task force work. The plan is ready for your review and approval.
+
+Would you like me to:
+
+Proceed with launching the research swarm as outlined?
+Make any adjustments to the research plan first?
+Focus on specific areas of the task force charge?
+Please let me know how you'd like to proceed!
+
+proceed
+
+Perfect! Let me launch the research swarm now. I'll initialize the coordination system and spawn all 6 specialized research agents in parallel.
+
+Update Todos
+ Initializing swarm coordination system
+ Deploy Agent Alpha - Institutional Context Research
+ Deploy Agent Beta - Task Force Member Profiling
+ Deploy Agent Gamma - Comparative Program Analysis
+ Deploy Agent Delta - Curriculum & Pedagogy Research
+ Deploy Agent Epsilon - Ethics & Society Research
+ Deploy Agent Zeta - Administrative & Financial Analysis
+ Monitor and coordinate agent research
+ Synthesize findings across all agents
+ Present comprehensive research results
+Task
+Agent Alpha - UIUC Context
+Task
+Agent Beta - Member Profiles
+Task
+Agent Gamma - Peer Analysis
+Task
+Agent Delta - Curriculum Design
+Task
+Agent Epsilon - Ethics Integration
+Task
+Agent Zeta - Administration
+Bash
+npx claude-flow@alpha hooks pre-task --description "Ethics and society research for responsible AI education curriculum"
+
+🎯 TASK PREPARATION COMPLETE
+[2025-11-23T14:55:07.034Z] INFO [memory-store] Initialized SQLite at: /home/user/helloworld/.swarm/memory.db
+... +6 lines
+WebSearch
+AI ethics curriculum undergraduate 2024
+Bash
+npx claude-flow@alpha hooks pre-task --description "UIUC institutional context research - AI education landscape analysis"
+
+🎯 TASK PREPARATION COMPLETE
+[2025-11-23T14:55:07.034Z] INFO [memory-store] Initialized SQLite at: /home/user/helloworld/.swarm/memory.db
+... +6 lines
+Bash
+npx claude-flow@alpha hooks pre-task --description "Administrative structures, governance models, and financial considerations research for campus-wide AI programs"
+
+🎯 TASK PREPARATION COMPLETE
+[2025-11-23T14:55:07.797Z] INFO [memory-store] Initialized SQLite at: /home/user/helloworld/.swarm/memory.db
+... +6 lines
+WebSearch
+teaching responsible AI frameworks education
+WebSearch
+algorithmic fairness education bias detection teaching
+Bash
+npx claude-flow@alpha hooks pre-task --description "Curriculum & Pedagogy research for undergraduate AI education"
+
+🎯 TASK PREPARATION COMPLETE
+[2025-11-23T14:55:07.034Z] INFO [memory-store] Initialized SQLite at: /home/user/helloworld/.swarm/memory.db
+... +6 lines
+Bash
+mkdir -p /home/user/helloworld/docs/research
+(No content)
+Bash
+npx claude-flow@alpha hooks pre-task --description "Campus AI Curriculum Task Force member profiling research"
+
+🎯 TASK PREPARATION COMPLETE
+[2025-11-23T14:55:07.035Z] INFO [memory-store] Initialized SQLite at: /home/user/helloworld/.swarm/memory.db
+... +6 lines
+Bash
+mkdir -p /home/user/helloworld/docs/research
+(No content)
+WebSearch
+Stanford HAI human-centered AI curriculum
+WebSearch
+interdisciplinary program administration universities governance structure 2024
+WebSearch
+University of Illinois Urbana-Champaign AI artificial intelligence courses programs 2025
+WebSearch
+MIT Media Lab ethics AI integration pedagogy
+Bash
+mkdir -p /home/user/helloworld/docs/research
+(No content)
+Bash
+mkdir -p /home/user/helloworld/docs/research
+(No content)
+Bash
+mkdir -p /home/user/helloworld/docs/research
+(No content)
+WebSearch
+CS+X program administrative structure multi-college coordination
+WebSearch
+UIUC CS+X programs computer science interdisciplinary degrees
+WebSearch
+environmental cost AI carbon footprint sustainable computing education
+WebSearch
+ACM AI curriculum guidelines undergraduate 2024
+WebSearch
+university AI institute models administrative framework
+WebSearch
+Derek Hoiem University of Illinois Grainger Engineering AI research
+WebSearch
+AI learning outcomes framework undergraduate education
+WebSearch
+UIUC X+DS data science programs statistics interdisciplinary
+WebSearch
+AI social impact labor markets economic implications curriculum
+WebSearch
+data science program administration cross-college governance
+Bash
+npx claude-flow@alpha hooks pre-task --description "Peer university AI education program analysis"
+
+🎯 TASK PREPARATION COMPLETE
+[2025-11-23T14:55:27.433Z] INFO [memory-store] Initialized SQLite at: /home/user/helloworld/.swarm/memory.db
+... +6 lines
+WebSearch
+Shaowen Wang University of Illinois College of Liberal Arts Sciences AI
+WebSearch
+scalable AI education delivery models large enrollment
+WebSearch
+UIUC artificial intelligence research centers labs institutes
+WebSearch
+interdisciplinary AI ethics philosophy sociology law education
+WebSearch
+university program housing options centralized distributed models
+WebSearch
+teaching artificial intelligence undergraduate pedagogy best practices
+WebSearch
+MIT artificial intelligence minor undergraduate program 2024
+WebSearch
+Amanda Brantner Gies College of Business University of Illinois educational portfolio
+WebSearch
+University of Illinois machine learning AI faculty expertise 2025
+WebSearch
+academic program resource allocation faculty lines cross-college
+WebSearch
+Stanford artificial intelligence minor undergraduate requirements curriculum
+WebSearch
+Nerissa Brown Gies College of Business University of Illinois Executive Associate Dean
+Bash
+mkdir -p /home/user/helloworld/docs/research
+(No content)
+WebSearch
+AI competency assessment undergraduate project-based evaluation
+WebSearch
+UIUC interdisciplinary academic programs cross-college collaboration
+WebSearch
+university AI program financial sustainability revenue models
+WebSearch
+Girish Chowdhary University of Illinois Engineering AI robotics
+WebSearch
+Carnegie Mellon CMU AI undergraduate minor program structure
+WebSearch
+inclusive AI education accessibility diverse backgrounds
+WebSearch
+interdisciplinary program cost-sharing budget models universities
+WebSearch
+Paris Smaragdis University of Illinois Information Sciences AI audio
+WebSearch
+prerequisite pathways AI courses mathematics programming requirements
+WebSearch
+UC Berkeley artificial intelligence undergraduate minor certificate
+WebSearch
+academic program director staffing interdisciplinary advising structures
+WebSearch
+Georgia Tech AI minor undergraduate program requirements
+WebSearch
+university program assessment accreditation interdisciplinary programs
+WebSearch
+University of Michigan artificial intelligence minor program 2024
+WebSearch
+Purdue University AI minor undergraduate certificate programs
+WebSearch
+University of Wisconsin Madison AI minor program
+WebSearch
+Northwestern University artificial intelligence undergraduate programs
+WebSearch
+X+AI blended degree programs business psychology biology 2024
+WebSearch
+interdisciplinary AI programs undergraduate AI+X degree models
+WebSearch
+undergraduate AI certificate programs stackable credentials universities
+WebSearch
+scalable AI education large enrollment courses MOOC platforms universities
+WebSearch
+best undergraduate AI programs 2024 top universities rankings
+WebSearch
+Ohio State University artificial intelligence undergraduate programs minor
+WebSearch
+UIUC artificial intelligence undergraduate minor certificate program
+WebSearch
+Karrie Karahalios University of Illinois Information Sciences social computing
+WebSearch
+UIUC CS+X program outcomes student success challenges
+WebSearch
+Huan Sun University of Illinois Information Sciences natural language processing
+WebSearch
+UIUC AI industry partnerships IBM Microsoft Google Amazon
+WebSearch
+Nigel Goldenfeld University of Illinois GNDP physics computational biology
+WebSearch
+UIUC Siebel School AI courses undergraduate curriculum
+WebSearch
+Jenny Amos University of Illinois ACES College of Agricultural Consumer Environmental Sciences
+WebSearch
+Bill Cope University of Illinois Education technology literacy
+WebSearch
+Angie Kalthoff University of Illinois Library data science
