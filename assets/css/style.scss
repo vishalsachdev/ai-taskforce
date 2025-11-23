@@ -26,6 +26,31 @@
 
 /* Custom styles for AI Taskforce Research site */
 
+/* Override Cayman theme header with UIUC brand colors */
+.page-header {
+  background: linear-gradient(135deg, var(--illini-blue) 0%, var(--industrial-blue) 100%) !important;
+  background-color: var(--illini-blue) !important;
+}
+
+.project-name {
+  color: #ffffff !important;
+}
+
+.project-tagline {
+  color: rgba(255, 255, 255, 0.85) !important;
+}
+
+.btn {
+  background: var(--illini-orange) !important;
+  border-color: var(--illini-orange) !important;
+  color: #ffffff !important;
+}
+
+.btn:hover {
+  background: var(--altgeld-orange) !important;
+  border-color: var(--altgeld-orange) !important;
+}
+
 /* UIUC Brand Header Styles */
 h1, h2, h3, h4 {
   color: var(--illini-blue);
