@@ -27,41 +27,6 @@ No single person possesses expertise across all these domains. Traditional resea
 
 We designed a **hierarchical swarm** of six specialized AI research agents, each assigned a distinct domain with clear research questions, methodologies, and deliverables. This architecture mirrors how academic research teams actually work—specialists in parallel, with coordinated synthesis—but operates at machine speed.
 
-### Visual Documentation: The Research Process
-
-To ensure full transparency, we documented the entire research process through screen recordings. The keyframes below show the actual workflow from session continuity through agent deployment:
-
-#### Session Continuity
-![Session restoration attempt](keyframes/keyframe-01.jpg)
-*Attempting to resume prior Claude web session that hit message limits*
-
-The process began by attempting to resume a prior Claude web session that had hit message limits. After exploring session restoration options, we proceeded with a clean CLI environment while preserving all context from the original web session transcript.
-
-#### Research Context
-![Reading session transcript](keyframes/keyframe-05.jpg)
-*Reading the 574-line session transcript to understand complete research task*
-
-Reading the session transcript revealed the complete research task: supporting the Campus AI Curriculum Task Force with comprehensive research across six domains (institutional context, stakeholder analysis, peer benchmarking, curriculum design, ethics integration, and administrative modeling).
-
-#### Infrastructure Setup
-![Claude Flow environment](keyframes/keyframe-12.jpg)
-*Claude Flow v2.0.0 environment with 54 specialized agents*
-
-The Claude Flow v2.0.0 environment provided the orchestration framework:
-- 🎯 Gies Business School Agent-Friendly API demo project
-- ⚡ 54 specialized agents available
-- 🤖 Swarm orchestration (9 commands)
-- 🧠 Hive-mind collective intelligence (11 commands)
-- 🔧 Hooks & automation infrastructure
-
-#### Agent Deployment
-![Research coordination](keyframes/keyframe-06.jpg)
-*Six specialized research agents launching in parallel*
-
-Six specialized research agents launched simultaneously, each conducting independent research while coordinating through shared memory and structured outputs.
-
-*Note: Full video recording and all keyframes are preserved in the project repository for complete auditability.*
-
 ### The Six Agents
 
 **Agent Alpha: Institutional Context Researcher**
