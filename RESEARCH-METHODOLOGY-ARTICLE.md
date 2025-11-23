@@ -31,13 +31,22 @@ We designed a **hierarchical swarm** of six specialized AI research agents, each
 
 To ensure full transparency, we documented the entire research process through screen recordings. The keyframes below show the actual workflow from session continuity through agent deployment:
 
-**Session Continuity** (`keyframes/keyframe-01.jpg` - `keyframe-02.jpg`)
+#### Session Continuity
+![Session restoration attempt](keyframes/keyframe-01.jpg)
+*Attempting to resume prior Claude web session that hit message limits*
+
 The process began by attempting to resume a prior Claude web session that had hit message limits. After exploring session restoration options, we proceeded with a clean CLI environment while preserving all context from the original web session transcript.
 
-**Research Context** (`keyframes/keyframe-05.jpg` - `keyframe-06.jpg`)
-Reading the 574-line session transcript revealed the complete research task: supporting the Campus AI Curriculum Task Force with comprehensive research across six domains (institutional context, stakeholder analysis, peer benchmarking, curriculum design, ethics integration, and administrative modeling).
+#### Research Context
+![Reading session transcript](keyframes/keyframe-05.jpg)
+*Reading the 574-line session transcript to understand complete research task*
 
-**Infrastructure Setup** (`keyframes/keyframe-12.jpg` - `keyframe-14.jpg`)
+Reading the session transcript revealed the complete research task: supporting the Campus AI Curriculum Task Force with comprehensive research across six domains (institutional context, stakeholder analysis, peer benchmarking, curriculum design, ethics integration, and administrative modeling).
+
+#### Infrastructure Setup
+![Claude Flow environment](keyframes/keyframe-12.jpg)
+*Claude Flow v2.0.0 environment with 54 specialized agents*
+
 The Claude Flow v2.0.0 environment provided the orchestration framework:
 - 🎯 Gies Business School Agent-Friendly API demo project
 - ⚡ 54 specialized agents available
@@ -45,7 +54,10 @@ The Claude Flow v2.0.0 environment provided the orchestration framework:
 - 🧠 Hive-mind collective intelligence (11 commands)
 - 🔧 Hooks & automation infrastructure
 
-**Agent Deployment** (visible throughout session)
+#### Agent Deployment
+![Research coordination](keyframes/keyframe-06.jpg)
+*Six specialized research agents launching in parallel*
+
 Six specialized research agents launched simultaneously, each conducting independent research while coordinating through shared memory and structured outputs.
 
 *Note: Full video recording and all keyframes are preserved in the project repository for complete auditability.*
