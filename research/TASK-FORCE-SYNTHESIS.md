@@ -1138,27 +1138,27 @@ This research provides evidence-based recommendations across all six Provost cha
 
 ### Appendix A: Detailed Course Listings
 
-See: `docs/research/institutional/uiuc-ai-landscape.md` (Agent Alpha)
+See: [institutional/uiuc-ai-landscape.md](institutional/uiuc-ai-landscape.md) ([Agent Alpha](../agents/agent-alpha-institutional.md))
 
 ### Appendix B: Task Force Member Full Profiles
 
-See: `docs/research/members/task-force-profiles.md` (Agent Beta)
+See: [members/task-force-profiles.md](members/task-force-profiles.md) ([Agent Beta](../agents/agent-beta-stakeholders.md))
 
 ### Appendix C: Peer University Program Details
 
-See: `docs/research/peer-programs/comparative-analysis.md` (Agent Gamma)
+See: [peer-programs/comparative-analysis.md](peer-programs/comparative-analysis.md) ([Agent Gamma](../agents/agent-gamma-peer-analysis.md))
 
 ### Appendix D: Curriculum & Pedagogy Frameworks
 
-See: `docs/research/curriculum/pedagogy-framework.md` (Agent Delta)
+See: [curriculum/pedagogy-framework.md](curriculum/pedagogy-framework.md) ([Agent Delta](../agents/agent-delta-curriculum.md))
 
 ### Appendix E: Ethics Integration Resources
 
-See: `docs/research/ethics/responsible-ai-framework.md` (Agent Epsilon)
+See: [ethics/responsible-ai-framework.md](ethics/responsible-ai-framework.md) ([Agent Epsilon](../agents/agent-epsilon-ethics.md))
 
 ### Appendix F: Administrative & Financial Models
 
-See: `docs/research/administration/governance-financial-models.md` (Agent Zeta)
+See: [administration/governance-financial-models.md](administration/governance-financial-models.md) ([Agent Zeta](../agents/agent-zeta-administration.md))
 
 ---
 

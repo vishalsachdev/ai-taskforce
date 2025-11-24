@@ -31,35 +31,41 @@ We designed a **hierarchical swarm** of six specialized AI research agents, each
 
 ### The Six Agents
 
-**Agent Alpha: Institutional Context Researcher**
+**[Agent Alpha: Institutional Context Researcher](agents/agent-alpha-institutional.md)**
 - **Mission**: Map UIUC's AI landscape, existing programs, CS+X/X+DS models, faculty expertise, infrastructure
 - **Sources**: UIUC websites, course catalogs, program documentation, faculty profiles, strategic plans
 - **Output**: Comprehensive institutional analysis revealing UIUC's top-5 AI ranking, $270M in funding, 14 CS+X programs serving 1,098 students, and proven interdisciplinary governance models
+- **Research Report**: [research/institutional/uiuc-ai-landscape.md](research/institutional/uiuc-ai-landscape.md)
 
-**Agent Beta: Task Force Member Profiler**
+**[Agent Beta: Task Force Member Profiler](agents/agent-beta-stakeholders.md)**
 - **Mission**: Research all 15 task force members—backgrounds, expertise, college priorities, likely perspectives
 - **Sources**: Faculty pages, publications, LinkedIn, college strategic plans, prior committee work
 - **Output**: Detailed stakeholder analysis identifying expertise clusters, coalition patterns, and strategic assets (e.g., Gies' Amanda Brantner and Nerissa Brown bringing stackable credentials expertise)
+- **Research Report**: [research/members/task-force-profiles.md](research/members/task-force-profiles.md)
 
-**Agent Gamma: Comparative Program Analyst**
+**[Agent Gamma: Comparative Program Analyst](agents/agent-gamma-peer-analysis.md)**
 - **Mission**: Benchmark AI minors, certificates, and X+AI programs at 12 peer universities
 - **Sources**: University websites, program descriptions, curriculum documents, news articles
 - **Output**: Competitive analysis revealing 58% of peers launched AI minors in 2024-2025, Georgia Tech's pioneering dual-track model, and Penn State's stackable credentials approach
+- **Research Report**: [research/peer-programs/comparative-analysis.md](research/peer-programs/comparative-analysis.md)
 
-**Agent Delta: Curriculum & Pedagogy Specialist**
+**[Agent Delta: Curriculum & Pedagogy Specialist](agents/agent-delta-curriculum.md)**
 - **Mission**: Research learning outcomes, prerequisite pathways, pedagogical frameworks, scalability models
 - **Sources**: ACM/IEEE curriculum guidelines, CS2023 standards, educational research, case studies
 - **Output**: Evidence-based framework citing CS2023 (first-ever ACM+IEEE+AAAI collaboration), project-based learning showing 37% improvement in interdisciplinary outcomes, and four prerequisite pathway models
+- **Research Report**: [research/curriculum/pedagogy-framework.md](research/curriculum/pedagogy-framework.md)
 
-**Agent Epsilon: Ethics & Society Researcher**
+**[Agent Epsilon: Ethics & Society Researcher](agents/agent-epsilon-ethics.md)**
 - **Mission**: Identify frameworks for integrating responsible AI, bias mitigation, environmental impact, and economic considerations
 - **Sources**: Stanford HAI, MIT Media Lab, Harvard Embedded EthiCS, UNESCO frameworks, industry standards
 - **Output**: Hybrid integration model (standalone course + embedded modules) backed by research from 193 UNESCO member states and validated with 730-student studies
+- **Research Report**: [research/ethics/responsible-ai-framework.md](research/ethics/responsible-ai-framework.md)
 
-**Agent Zeta: Administrative & Financial Analyst**
+**[Agent Zeta: Administrative & Financial Analyst](agents/agent-zeta-administration.md)**
 - **Mission**: Research governance structures, cost-sharing models, resource requirements, financial sustainability
 - **Sources**: Higher ed administration research, multi-college program case studies, UIUC precedents
 - **Output**: Detailed financial projections ($1.03M investment over 5 years, revenue neutral by Year 3-4) and governance recommendations based on UIUC's proven X+DS model
+- **Research Report**: [research/administration/governance-financial-models.md](research/administration/governance-financial-models.md)
 
 ### Why This Works: Parallel Execution with Coordinated Synthesis
 
