@@ -285,12 +285,12 @@ ai-taskforce/
 
 **This is an experiment in AI-assisted research with human steering.** We used a **hierarchical swarm** of 6 specialized research agents (powered by [Claude Flow](https://github.com/ruvnet/claude-flow)) working in parallel under human orchestration:
 
-1. **Agent Alpha** - Institutional context (UIUC AI landscape, existing programs)
-2. **Agent Beta** - Stakeholder analysis (task force member profiling)
-3. **Agent Gamma** - Competitive analysis (12 peer universities)
-4. **Agent Delta** - Curriculum design (learning outcomes, pedagogy)
-5. **Agent Epsilon** - Ethics integration (responsible AI frameworks)
-6. **Agent Zeta** - Administration (governance, financial models)
+1. **[Agent Alpha](agents/agent-alpha-institutional.md)** - Institutional context (UIUC AI landscape, existing programs)
+2. **[Agent Beta](agents/agent-beta-stakeholders.md)** - Stakeholder analysis (task force member profiling)
+3. **[Agent Gamma](agents/agent-gamma-peer-analysis.md)** - Competitive analysis (12 peer universities)
+4. **[Agent Delta](agents/agent-delta-curriculum.md)** - Curriculum design (learning outcomes, pedagogy)
+5. **[Agent Epsilon](agents/agent-epsilon-ethics.md)** - Ethics integration (responsible AI frameworks)
+6. **[Agent Zeta](agents/agent-zeta-administration.md)** - Administration (governance, financial models)
 
 **Human Role**: Research design, agent orchestration, synthesis validation, strategic framing
 **AI Role**: Parallel research execution, source gathering, evidence compilation, structured analysis

@@ -112,12 +112,12 @@ Hybrid model throughout curriculum
 
 We deployed a **hierarchical swarm** of 6 specialized AI agents (powered by [Claude Flow](https://github.com/ruvnet/claude-flow)) working in parallel:
 
-1. **Agent Alpha** - UIUC institutional context
-2. **Agent Beta** - Task force member profiling
-3. **Agent Gamma** - Peer university analysis (12 institutions)
-4. **Agent Delta** - Curriculum & pedagogy frameworks
-5. **Agent Epsilon** - Ethics integration
-6. **Agent Zeta** - Administrative & financial modeling
+1. **[Agent Alpha](agents/agent-alpha-institutional)** - UIUC institutional context
+2. **[Agent Beta](agents/agent-beta-stakeholders)** - Task force member profiling
+3. **[Agent Gamma](agents/agent-gamma-peer-analysis)** - Peer university analysis (12 institutions)
+4. **[Agent Delta](agents/agent-delta-curriculum)** - Curriculum & pedagogy frameworks
+5. **[Agent Epsilon](agents/agent-epsilon-ethics)** - Ethics integration
+6. **[Agent Zeta](agents/agent-zeta-administration)** - Administrative & financial modeling
 
 **Human Role**: Research design, agent orchestration, synthesis validation, strategic framing
 **AI Role**: Parallel research execution, source gathering, evidence compilation
