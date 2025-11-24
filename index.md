@@ -112,12 +112,12 @@ Hybrid model throughout curriculum
 
 We deployed a **hierarchical swarm** of 6 specialized AI agents (powered by [Claude Flow](https://github.com/ruvnet/claude-flow)) working in parallel:
 
-1. **Agent Alpha** - UIUC institutional context
-2. **Agent Beta** - Task force member profiling
-3. **Agent Gamma** - Peer university analysis (12 institutions)
-4. **Agent Delta** - Curriculum & pedagogy frameworks
-5. **Agent Epsilon** - Ethics integration
-6. **Agent Zeta** - Administrative & financial modeling
+1. **[Agent Alpha](agents/agent-alpha-institutional.md)** - UIUC institutional context
+2. **[Agent Beta](agents/agent-beta-stakeholders.md)** - Task force member profiling
+3. **[Agent Gamma](agents/agent-gamma-peer-analysis.md)** - Peer university analysis (12 institutions)
+4. **[Agent Delta](agents/agent-delta-curriculum.md)** - Curriculum & pedagogy frameworks
+5. **[Agent Epsilon](agents/agent-epsilon-ethics.md)** - Ethics integration
+6. **[Agent Zeta](agents/agent-zeta-administration.md)** - Administrative & financial modeling
 
 **Human Role**: Research design, agent orchestration, synthesis validation, strategic framing
 **AI Role**: Parallel research execution, source gathering, evidence compilation
@@ -130,22 +130,22 @@ We deployed a **hierarchical swarm** of 6 specialized AI agents (powered by [Cla
 
 ## Six Research Agents
 
-### 📊 [Agent Alpha: Institutional Context](agents/agent-alpha-institutional)
+### 📊 [Agent Alpha: Institutional Context](agents/agent-alpha-institutional.md)
 UIUC's AI landscape, CS+X/X+DS models, $270M funding, infrastructure
 
-### 👥 [Agent Beta: Stakeholder Analysis](agents/agent-beta-stakeholders)
+### 👥 [Agent Beta: Stakeholder Analysis](agents/agent-beta-stakeholders.md)
 15 task force member profiles, expertise clusters, coalition dynamics
 
-### 🏛️ [Agent Gamma: Peer Programs](agents/agent-gamma-peer-analysis)
+### 🏛️ [Agent Gamma: Peer Programs](agents/agent-gamma-peer-analysis.md)
 12 universities analyzed, Georgia Tech dual-track, Northwestern growth model
 
-### 📚 [Agent Delta: Curriculum Design](agents/agent-delta-curriculum)
+### 📚 [Agent Delta: Curriculum Design](agents/agent-delta-curriculum.md)
 CS2023 standards, three-tier outcomes, project-based learning (37% improvement)
 
-### ⚖️ [Agent Epsilon: Ethics Integration](agents/agent-epsilon-ethics)
+### ⚖️ [Agent Epsilon: Ethics Integration](agents/agent-epsilon-ethics.md)
 Hybrid model, 6 core topics, AIERS assessment framework
 
-### 💼 [Agent Zeta: Administration](agents/agent-zeta-administration)
+### 💼 [Agent Zeta: Administration](agents/agent-zeta-administration.md)
 Provost coordination governance, 5-year financial projections
 
 ---

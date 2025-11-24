@@ -49,7 +49,8 @@ This repository contains comprehensive research and recommendations for the [Uni
 Our research was conducted using a **coordinated swarm of 6 specialized agents** (see [detailed agent documentation](agents/)), each focusing on a critical domain:
 
 ### 📊 Agent Alpha: Institutional Context
-**File**: [`research/institutional/uiuc-ai-landscape.md`](research/institutional/uiuc-ai-landscape.md)
+**Agent Documentation**: [`agents/agent-alpha-institutional.md`](agents/agent-alpha-institutional.md)  
+**Research Output**: [`research/institutional/uiuc-ai-landscape.md`](research/institutional/uiuc-ai-landscape.md)
 
 **Key Findings**:
 - UIUC ranks **Top 5** nationally in AI with **$270M** in funding since 2019
@@ -62,7 +63,8 @@ Our research was conducted using a **coordinated swarm of 6 specialized agents**
 ---
 
 ### 👥 Agent Beta: Task Force Member Profiling
-**File**: [`research/members/task-force-profiles.md`](research/members/task-force-profiles.md)
+**Agent Documentation**: [`agents/agent-beta-stakeholders.md`](agents/agent-beta-stakeholders.md)  
+**Research Output**: [`research/members/task-force-profiles.md`](research/members/task-force-profiles.md)
 
 **Key Findings**:
 - **6 technical AI experts**: Hoiem (computer vision), Wang (spatial AI), Lourentzou (multimodal learning)
@@ -74,7 +76,8 @@ Our research was conducted using a **coordinated swarm of 6 specialized agents**
 ---
 
 ### 🏛️ Agent Gamma: Peer University Programs
-**File**: [`research/peer-programs/comparative-analysis.md`](research/peer-programs/comparative-analysis.md)
+**Agent Documentation**: [`agents/agent-gamma-peer-analysis.md`](agents/agent-gamma-peer-analysis.md)  
+**Research Output**: [`research/peer-programs/comparative-analysis.md`](research/peer-programs/comparative-analysis.md)
 
 **Universities Analyzed**: MIT, Stanford, Carnegie Mellon, UC Berkeley, Georgia Tech, Michigan, Purdue, UW-Madison, Northwestern, Ohio State, Penn State, Minnesota
 
@@ -91,7 +94,8 @@ Our research was conducted using a **coordinated swarm of 6 specialized agents**
 ---
 
 ### 📚 Agent Delta: Curriculum & Pedagogy
-**File**: [`research/curriculum/pedagogy-framework.md`](research/curriculum/pedagogy-framework.md)
+**Agent Documentation**: [`agents/agent-delta-curriculum.md`](agents/agent-delta-curriculum.md)  
+**Research Output**: [`research/curriculum/pedagogy-framework.md`](research/curriculum/pedagogy-framework.md)
 
 **Key Findings**:
 - **CS2023 Guidelines**: First-ever ACM + IEEE-CS + AAAI collaboration (endorsed Jan-Feb 2024)
@@ -105,7 +109,8 @@ Our research was conducted using a **coordinated swarm of 6 specialized agents**
 ---
 
 ### ⚖️ Agent Epsilon: Ethics & Society Integration
-**File**: [`research/ethics/responsible-ai-framework.md`](research/ethics/responsible-ai-framework.md)
+**Agent Documentation**: [`agents/agent-epsilon-ethics.md`](agents/agent-epsilon-ethics.md)  
+**Research Output**: [`research/ethics/responsible-ai-framework.md`](research/ethics/responsible-ai-framework.md)
 
 **Key Findings**:
 - **Hybrid approach** shows strongest outcomes: Standalone course + embedded modules
@@ -120,7 +125,8 @@ Our research was conducted using a **coordinated swarm of 6 specialized agents**
 ---
 
 ### 💼 Agent Zeta: Administrative & Financial Models
-**File**: [`research/administration/governance-financial-models.md`](research/administration/governance-financial-models.md)
+**Agent Documentation**: [`agents/agent-zeta-administration.md`](agents/agent-zeta-administration.md)  
+**Research Output**: [`research/administration/governance-financial-models.md`](research/administration/governance-financial-models.md)
 
 **Key Findings**:
 - **Recommended structure**: Provost coordination with distributed delivery (like X+DS)
@@ -279,12 +285,12 @@ ai-taskforce/
 
 **This is an experiment in AI-assisted research with human steering.** We used a **hierarchical swarm** of 6 specialized research agents (powered by [Claude Flow](https://github.com/ruvnet/claude-flow)) working in parallel under human orchestration:
 
-1. **Agent Alpha** - Institutional context (UIUC AI landscape, existing programs)
-2. **Agent Beta** - Stakeholder analysis (task force member profiling)
-3. **Agent Gamma** - Competitive analysis (12 peer universities)
-4. **Agent Delta** - Curriculum design (learning outcomes, pedagogy)
-5. **Agent Epsilon** - Ethics integration (responsible AI frameworks)
-6. **Agent Zeta** - Administration (governance, financial models)
+1. **[Agent Alpha](agents/agent-alpha-institutional.md)** - Institutional context (UIUC AI landscape, existing programs)
+2. **[Agent Beta](agents/agent-beta-stakeholders.md)** - Stakeholder analysis (task force member profiling)
+3. **[Agent Gamma](agents/agent-gamma-peer-analysis.md)** - Competitive analysis (12 peer universities)
+4. **[Agent Delta](agents/agent-delta-curriculum.md)** - Curriculum design (learning outcomes, pedagogy)
+5. **[Agent Epsilon](agents/agent-epsilon-ethics.md)** - Ethics integration (responsible AI frameworks)
+6. **[Agent Zeta](agents/agent-zeta-administration.md)** - Administration (governance, financial models)
 
 **Human Role**: Research design, agent orchestration, synthesis validation, strategic framing
 **AI Role**: Parallel research execution, source gathering, evidence compilation, structured analysis
