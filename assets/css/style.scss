@@ -222,6 +222,65 @@ pre code {
   font-weight: 600;
 }
 
+/* Hero Section */
+.hero {
+  background: linear-gradient(135deg, var(--illini-blue) 0%, var(--illini-orange) 50%, var(--industrial-blue) 100%);
+  color: white;
+  padding: 4rem 2rem;
+  text-align: center;
+  margin: 2rem 0;
+  border-radius: 12px;
+}
+
+.hero-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.hero h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: white;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+  color: rgba(255,255,255,0.95);
+}
+
+.hero-button {
+  font-size: 1.1rem;
+  padding: 1rem 2rem;
+}
+
+.hero .button:hover {
+  background: var(--altgeld-orange);
+  transform: scale(1.05);
+}
+
+/* Accessibility focus styles */
+*:focus-visible {
+  outline: 3px solid var(--illini-orange);
+  outline-offset: 2px;
+}
+
+.button:focus-visible {
+  background: var(--altgeld-orange);
+}
+
+/* Print optimizations */
+@media print {
+  .hero {
+    background: white !important;
+    color: black !important;
+    -webkit-print-color-adjust: exact;
+  }
+  .hero h1 { color: black; }
+  .hero p { color: black; }
+}
+
 /* Responsive adjustments */
 @media (max-width: 768px) {
   .navigation-cards {

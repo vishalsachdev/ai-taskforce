@@ -22,6 +22,9 @@ collections:
   agents:
     output: true
     permalink: /agents/:name/
+  research:
+    output: true
+    permalink: /research/:name/
 
 # Markdown settings
 markdown: kramdown
@@ -33,6 +36,10 @@ kramdown:
 # Plugins
 plugins:
   - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-minifier
 
 relative_links:
   enabled: true
