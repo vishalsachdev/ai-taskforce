@@ -4,7 +4,7 @@
 **Research Period**: November 2025
 **Task Force Chairs**: Derek Hoiem (Grainger Engineering), Shaowen Wang (LAS)
 
-> **⚠️ Methodological Note**: This is an **experiment in AI-assisted research with human steering**. The research employs coordinated AI agents (powered by [Claude Flow](https://github.com/ruvnet/claude-flow)) under human orchestration to achieve breadth and speed without sacrificing rigor. All findings are evidence-based, transparently sourced, and validated by human expertise.
+> **⚠️ Methodological Note**: This is an **experiment in AI-assisted research with human steering**. The research employs coordinated AI agents (powered by [Claude Flow](https://github.com/ruvnet/claude-flow)) under human orchestration to achieve breadth and speed without sacrificing rigor. All findings are evidence-based, transparently sourced, with references linked.  
 
 ---
 
